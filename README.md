@@ -174,13 +174,14 @@ O banco é criado automaticamente na primeira execução do `app.py`, junto com 
 
 | Nome | RA | Papel |
 |------|----|-------|
-| [Nome do Aluno 1] | [RA] | Líder / Scrum Master |
-| [Nome do Aluno 2] | [RA] | Dev Back-end |
-| [Nome do Aluno 3] | [RA] | Dev Back-end |
-| [Nome do Aluno 4] | [RA] | Dev Front-end |
-| [Nome do Aluno 5] | [RA] | Dev Front-end / Gráficos |
-| [Nome do Aluno 6] | [RA] | Documentação / QA |
-| [Nome do Aluno 7] | [RA] | QA / Testes |
+| [Gabriel Siqueira Silva] | [24200844] | Líder / Scrum Master |
+| [Raoni Kirschner Sava] | [24218257] | Dev Back-end |
+| [Gabriele Cristine Ribeiro Aluvino] | [24211510] | Dev Back-end |
+| [Lucas Rabelo Fabiano] | [24219010] | Dev Front-end |
+| [Nelson de Paula Santos Júnior] | [24206410] | Dev Front-end / Gráficos |
+| [Rafael José Benedito da Conceição] | [24204145] | Documentação / QA |
+| [Reginaldo Francisco Pedrosa] | [24217557] | QA / Testes |
+| [Reinaldo Samuel de Souza Silva] | [24211225] | QA / Testes |
 
 > **Polo:** [Nome do Polo] — **Orientador PI:** [Nome do Orientador]
 
@@ -203,3 +204,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
