@@ -183,7 +183,7 @@ O banco é criado automaticamente na primeira execução do `app.py`, junto com 
 | [Reginaldo Francisco Pedrosa] | [24217557] | QA / Testes |
 | [Reinaldo Samuel de Souza Silva] | [24211225] | QA / Testes |
 
-> **Polo:** [Nome do Polo] — **Orientador PI:** [Nome do Orientador]
+> **Polo:** [Aparecida, Caçapava, Jacareí e Redenção da Serra] — **Orientador PI:** [Thiago Vinicius Ribeiro Soeira]
 
 ## 📄 Licença
 
@@ -204,4 +204,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
