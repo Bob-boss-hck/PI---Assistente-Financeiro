@@ -1,4 +1,4 @@
-<script src="https://gist.github.com/ernestoguimaraes/e691040b8cbe3b362be19aa45b48fcb2.js">UNIVESP</script>
+http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="Status: Em Desenvolvimento"/>
   <img src="https://img.shields.io/badge/univesp-projeto%20integrador-blue?style=for-the-badge" alt="Univesp - Projeto Integrador"/>
@@ -205,6 +205,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
 
 
