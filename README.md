@@ -1,5 +1,5 @@
                                                                                                                                                
-                                                                                                                                               
+'''                                                                                                                                           
 UUUUUUUU     UUUUUUUUNNNNNNNN        NNNNNNNNIIIIIIIIIIVVVVVVVV           VVVVVVVVEEEEEEEEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSS PPPPPPPPPPPPPPPPP   
 U::::::U     U::::::UN:::::::N       N::::::NI::::::::IV::::::V           V::::::VE::::::::::::::::::::E SS:::::::::::::::SP::::::::::::::::P  
 U::::::U     U::::::UN::::::::N      N::::::NI::::::::IV::::::V           V::::::VE::::::::::::::::::::ES:::::SSSSSS::::::SP::::::PPPPPP:::::P 
@@ -15,7 +15,8 @@ UU:::::U     U:::::UUN:::::::::N     N::::::NII::::::IIV::::::V           V:::::
  U:::::::UUU:::::::U N::::::N      N::::::::NII::::::II         V:::::::V         EE::::::EEEEEEEE:::::ESSSSSSS     S:::::SPP::::::PP          
   UU:::::::::::::UU  N::::::N       N:::::::NI::::::::I          V:::::V          E::::::::::::::::::::ES::::::SSSSSS:::::SP::::::::P          
     UU:::::::::UU    N::::::N        N::::::NI::::::::I           V:::V           E::::::::::::::::::::ES:::::::::::::::SS P::::::::P          
-      UUUUUUUUU      NNNNNNNN         NNNNNNNIIIIIIIIII            VVV            EEEEEEEEEEEEEEEEEEEEEE SSSSSSSSSSSSSSS   PPPPPPPPPP          
+      UUUUUUUUU      NNNNNNNN         NNNNNNNIIIIIIIIII            VVV            EEEEEEEEEEEEEEEEEEEEEE SSSSSSSSSSSSSSS   PPPPPPPPPP
+    '''  
                                                                                                                                                
                                                                                                                                                
                                                                                                                                           
@@ -225,6 +226,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
 
 
