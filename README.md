@@ -25,7 +25,7 @@
 
 ## 📋 Sobre o Projeto
 
-O **Finança Fácil** é uma aplicação web desenvolvida como Projeto Integrador do curso de [Tecnologia da Informação] da UNIVESP — Polo [Aparecida, Caçapava, Jacareí e Redenção da Serra].
+O **Finança Fácil** é uma aplicação web desenvolvida como Projeto Integrador do curso de Tecnologia da Informação da UNIVESP — Polo Aparecida, Caçapava, Jacareí e Redenção da Serra.
 
 O sistema permite que o usuário registre suas receitas e despesas, categorize seus gastos e acompanhe sua saúde financeira por meio de gráficos interativos e relatórios visuais — tudo de forma simples, intuitiva e minimalista.
 
@@ -204,6 +204,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
 
 
