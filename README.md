@@ -174,14 +174,14 @@ O banco é criado automaticamente na primeira execução do `app.py`, junto com 
 
 | Nome | RA | Papel |
 |------|----|-------|
-| Gabriel Siqueira Silva | [24200844 | Líder / Scrum Master |
-| Raoni Kirschner Sava | [24218257 | Dev Back-end |
-| Gabriele Cristine Ribeiro Aluvino | [24211510 | Dev Back-end |
-| Lucas Rabelo Fabiano | [24219010 | Dev Front-end |
-| Nelson de Paula Santos Júnior | [24206410 | Dev Front-end / Gráficos |
-| Rafael José Benedito da Conceição | [24204145 | Documentação / QA |
-| Reginaldo Francisco Pedrosa | [24217557 | QA / Testes |
-| Reinaldo Samuel de Souza Silva | [24211225 | QA / Testes |
+| Gabriel Siqueira Silva | 24200844 | Líder / Scrum Master |
+| Raoni Kirschner Sava | 24218257 | Dev Back-end |
+| Gabriele Cristine Ribeiro Aluvino | 24211510 | Dev Back-end |
+| Lucas Rabelo Fabiano | 24219010 | Dev Front-end |
+| Nelson de Paula Santos Júnior | 24206410 | Dev Front-end / Gráficos |
+| Rafael José Benedito da Conceição | 24204145 | Documentação / QA |
+| Reginaldo Francisco Pedrosa | 24217557 | QA / Testes |
+| Reinaldo Samuel de Souza Silva | 24211225 | QA / Testes |
 
 > **Polo:** [Aparecida, Caçapava, Jacareí e Redenção da Serra] — **Orientador PI:** [Thiago Vinicius Ribeiro Soeira]
 
@@ -204,6 +204,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
 
 
