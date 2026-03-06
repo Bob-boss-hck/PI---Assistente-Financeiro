@@ -1,4 +1,24 @@
-<script src="https://gist.github.com/ernestoguimaraes/e691040b8cbe3b362be19aa45b48fcb2.js">http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20</script>
+                                                                                                                                               
+                                                                                                                                               
+UUUUUUUU     UUUUUUUUNNNNNNNN        NNNNNNNNIIIIIIIIIIVVVVVVVV           VVVVVVVVEEEEEEEEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSS PPPPPPPPPPPPPPPPP   
+U::::::U     U::::::UN:::::::N       N::::::NI::::::::IV::::::V           V::::::VE::::::::::::::::::::E SS:::::::::::::::SP::::::::::::::::P  
+U::::::U     U::::::UN::::::::N      N::::::NI::::::::IV::::::V           V::::::VE::::::::::::::::::::ES:::::SSSSSS::::::SP::::::PPPPPP:::::P 
+UU:::::U     U:::::UUN:::::::::N     N::::::NII::::::IIV::::::V           V::::::VEE::::::EEEEEEEEE::::ES:::::S     SSSSSSSPP:::::P     P:::::P
+ U:::::U     U:::::U N::::::::::N    N::::::N  I::::I   V:::::V           V:::::V   E:::::E       EEEEEES:::::S              P::::P     P:::::P
+ U:::::D     D:::::U N:::::::::::N   N::::::N  I::::I    V:::::V         V:::::V    E:::::E             S:::::S              P::::P     P:::::P
+ U:::::D     D:::::U N:::::::N::::N  N::::::N  I::::I     V:::::V       V:::::V     E::::::EEEEEEEEEE    S::::SSSS           P::::PPPPPP:::::P 
+ U:::::D     D:::::U N::::::N N::::N N::::::N  I::::I      V:::::V     V:::::V      E:::::::::::::::E     SS::::::SSSSS      P:::::::::::::PP  
+ U:::::D     D:::::U N::::::N  N::::N:::::::N  I::::I       V:::::V   V:::::V       E:::::::::::::::E       SSS::::::::SS    P::::PPPPPPPPP    
+ U:::::D     D:::::U N::::::N   N:::::::::::N  I::::I        V:::::V V:::::V        E::::::EEEEEEEEEE          SSSSSS::::S   P::::P            
+ U:::::D     D:::::U N::::::N    N::::::::::N  I::::I         V:::::V:::::V         E:::::E                         S:::::S  P::::P            
+ U::::::U   U::::::U N::::::N     N:::::::::N  I::::I          V:::::::::V          E:::::E       EEEEEE            S:::::S  P::::P            
+ U:::::::UUU:::::::U N::::::N      N::::::::NII::::::II         V:::::::V         EE::::::EEEEEEEE:::::ESSSSSSS     S:::::SPP::::::PP          
+  UU:::::::::::::UU  N::::::N       N:::::::NI::::::::I          V:::::V          E::::::::::::::::::::ES::::::SSSSSS:::::SP::::::::P          
+    UU:::::::::UU    N::::::N        N::::::NI::::::::I           V:::V           E::::::::::::::::::::ES:::::::::::::::SS P::::::::P          
+      UUUUUUUUU      NNNNNNNN         NNNNNNNIIIIIIIIII            VVV            EEEEEEEEEEEEEEEEEEEEEE SSSSSSSSSSSSSSS   PPPPPPPPPP          
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                          
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="Status: Em Desenvolvimento"/>
   <img src="https://img.shields.io/badge/univesp-projeto%20integrador-blue?style=for-the-badge" alt="Univesp - Projeto Integrador"/>
@@ -205,6 +225,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   Desenvolvido com ☕ por alunos da <strong>UNIVESP</strong><br>
   Projeto Integrador I — 2025
 </p>
+
 
 
 
