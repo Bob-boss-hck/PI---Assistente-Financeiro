@@ -1,0 +1,1 @@
+// Interações gerais (filtros, modais)

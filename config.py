@@ -1,0 +1,1 @@
+# Configurações (SECRET_KEY, DB path...)

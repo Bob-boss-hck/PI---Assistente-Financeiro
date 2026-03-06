@@ -1,0 +1,1 @@
+# Funções do banco (create, insert, select...)
